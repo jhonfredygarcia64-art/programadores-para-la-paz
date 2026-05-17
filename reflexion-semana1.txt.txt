@@ -1,0 +1,6 @@
+ reflexion-semana1.txt 
+
+RESPUESTA 4:
+
+El uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con Git comparten una misma lógica de colaboración trazable y reversible. En internet, ser responsable implica verificar fuentes y citar autoría, lo cual es análogo a hacer commits claros y firmados en Git. La participación ciudadana exige poder proponer cambios, discutirlos y revertir decisiones erróneas, exactamente como funciona un Pull Request con revisiones y aprobaciones. Git enseña que ninguna modificación debe ser anónima ni irreversible, principio fundamental para una ciudadanía informada. Así, un equipo que usa bien Git practica en miniatura la gobernanza transparente: toda acción tiene autoría, contexto y posibilidad de corrección. Llevar esa lógica al espacio público significa exigir actas editables por versiones, decisiones trazables y mecanismos claros de veto o derogación. Por tanto, la organización técnica con Git no es solo una herramienta de programadores, sino un entrenamiento práctico para el ejercicio de una ciudadanía responsable y participativa en la era digital.
+

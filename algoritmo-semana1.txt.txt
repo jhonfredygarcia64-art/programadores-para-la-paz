@@ -1,0 +1,18 @@
+ algoritmo-semana1.txt
+
+Respuesta 5:
+
+ALGORITMO DE 8 PASOS: COMO COMPARTIR INFORMACION CONBIABLE EN INTERNET:
+
+1.Lee más allá del titular: Evita compartir contenidos basándote solo en el título, ya que muchas veces usan lenguaje sensacionalista o emocional  para captar clics y pueden estar fuera de contexto.
+
+2.Identifica y evalúa al autor: Verifica quién firma la publicación. Asegúrate de que sea un experto, una institución educativa o un organismo oficial con autoridad en el tema.
+
+3.Revisa la fecha de publicación: Corrobora cuándo se publicó la noticia. Compartir un evento antiguo como si estuviera ocurriendo hoy es una de las formas más comunes de desinformar.
+
+4.Busca la fuente original: Si el artículo menciona un estudio científico o un suceso, comprueba si incluye un enlace a la fuente original o a datos oficiales.
+
+5.Contrasta con otras fuentes: Antes de publicar, busca el mismo tema en al menos dos medios o sitios web de confianza (puedes usar herramientas como Google para verificar la veracidad de la noticia).
+
+6.Evita cadenas y rumores anónimos: Si recibes un audio, una captura de pantalla sin contexto o un mensaje reenviado muchas veces, no lo compartas de inmediato. Si no puedes confirmar su origen y veracidad, lo mejor es detener la cadena.
+
